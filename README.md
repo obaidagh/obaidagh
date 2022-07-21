@@ -15,7 +15,7 @@
 <table><tr><td valign="top" width="50%">
 
 - :school: I am a `Senior` in Electronics and Communication Engineering department at Sülymen Demirel University
-- 🔭 I’m currently working on [T-SNE visualization of MNIST after dimensionality reduction](https://github.com/obaidagh/T-SNE-visualization-of-MNIST-after-dimensionality-reduction)
+- 🔭 I’m currently working on `(getting ideas for a real life project to do  )`
 - 🌱 I’m currently learning `Pytorch` and `Computer Vision — Tübingen Machine Learning`
 - :thinking: I’m currently open for: `An Internship` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1alJs-AqijquBM1gYwMGB-z5W_zeZnO2J/view?usp=sharing).
 - :nerd_face: Always `learning new things`
